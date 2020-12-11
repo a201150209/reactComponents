@@ -1,3 +1,5 @@
+//SEE correctTimer file, this is old version
+
 import React, {useState, useEffect} from 'react';
 
 const format = (value) => value <= 9 ? `0${value}` : value;
